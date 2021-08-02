@@ -1,4 +1,7 @@
-# jwtAccessPlugin
+# wse-plugins
+
+\\\\\\\\\\\ jwtAccessPlugin \\\\\\\\\\\
+
 plugin de wowza streaming engine para controlar acceso a aplicaciones mediante jwt
 
 para ejecutar buildear el proyecto que por defecto se empaqueta en usr/local/WowzaStreamingEngine-4.8.8/lib
